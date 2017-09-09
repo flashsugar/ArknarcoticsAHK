@@ -2,7 +2,7 @@
 #persistent
 RatioX := (A_ScreenWidth / 1920)
 RatioY := (A_ScreenHeight / 1080) 
-Min = 1
+Min = 45
 Min := (Min*60000)
 SetTimer, antiafk, %Min%
 return
