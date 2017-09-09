@@ -21,4 +21,4 @@
 - Report and problems you may have in the issues and be sure to contribute if you wish.
 
 # Credits
-- U/TheFlyingCaribou https://www.reddit.com/r/playark/comments/4dz6g8/tool_arkautotamingmacro_ahk_macro/  , for doiung the heavy work. I only improved upon this script and fixing tiny problems.
+- U/TheFlyingCaribou https://www.reddit.com/r/playark/comments/4dz6g8/tool_arkautotamingmacro_ahk_macro/  , for doing the heavy work. I only improved upon this script and fixing tiny problems.
