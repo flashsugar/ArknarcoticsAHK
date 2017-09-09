@@ -5,6 +5,7 @@
 - Precise Narcotics usage
 - Pause button and start button
 - Applies Naroctics to the dino for you. 
+- Works for Current version of ARK as of 9/9/17
 
 
 # How to use
